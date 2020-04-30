@@ -1,0 +1,16 @@
+.fieldset {
+    border: none;
+    border-bottom: 5px solid #E2F1FD;
+}
+.tabNewItem{
+  margin: 1% 3%;
+  width: 80%;
+  height: 50px;
+  float: left;
+}
+.addItem{
+  font-size: 30px;
+  color: #c8d0d8;
+  margin-top: 1%;
+  cursor: pointer;
+}

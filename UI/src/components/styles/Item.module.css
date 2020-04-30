@@ -1,0 +1,26 @@
+.deleteItem{
+    float: right;
+    height: 30px;
+    width: 150px;
+    font-size: 18px;
+    border-radius: 50px;
+    background-color: red;
+    cursor: pointer;
+}
+.changeItem{
+    cursor: pointer;
+}
+.completedCase{
+    text-decoration: line-through;
+    color: green;
+}
+.completeButtonFalse{
+    float: right;
+    height: 30px;
+    width: 150px;
+    font-size: 18px;
+    border-radius: 50px;
+    border-right: 20px;
+    background-color: green;
+    cursor: pointer;
+}
